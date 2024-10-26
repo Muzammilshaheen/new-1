@@ -17,7 +17,7 @@ const page = () => {
       <p className="text-lg font-medium bg-black rounded-full text-base px-10 py-10 border-y-amber-800 text-white">
         “Her classes are known for being energetic and inclusive, catering to students of all skill levels and encouraging them to reach their full potential. Maria integrates a variety of sports, exercises, and activities to keep students engaged and motivated, while also teaching them the value of maintaining a healthy lifestyle.
 
-Maria is committed to creating a positive and supportive environment where students feel confident and excited to participate. She also places a strong emphasis on the development of social and emotional skills through physical education, such as leadership, cooperation, and resilience.”
+Maria is committed to creating abde a positive and supportive environment where students feel confident and excited to participate. She also places a strong emphasis on the development of social and emotional skills through physical education, such as leadership, cooperation, and resilience.”
       </p>
     </blockquote>
     
